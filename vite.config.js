@@ -1,6 +1,6 @@
 module.exports = {
     build: {
-      assetsDir: 'zoom'
+      assetsDir: 'zoom/assets'
     }
   }
   
