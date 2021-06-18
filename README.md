@@ -14,8 +14,8 @@ Make sure you have [node.js](https://nodejs.org/en/) installed on your machine b
 Click the Use this template button and clone the repository.
 
 ```
-$ git clone <project-name>
-$ cd <project-name>
+$ git clone git@github.com:charlon/zoom-error.git
+$ cd zoom-error
 $ npm install
 
 ```
